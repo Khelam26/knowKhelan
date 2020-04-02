@@ -1,9 +1,3 @@
-/*!
- * Bootstrap v4.3.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
  a{
   color:#7FFF00;
  }
@@ -66,7 +60,7 @@ width:20%;
 /*  text-align: center !important;
   vertical-align:top;*/
 
-display: none;
+display: inline;
   text-align:right;
   padding:.2em;
    border-radius: 50%;
