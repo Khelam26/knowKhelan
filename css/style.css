@@ -9730,6 +9730,7 @@ div{
     stroke-dashoffset: -136px; } }
 
 .scientistImage{
+ display:inline;
   border-radius: 25%;
   width: 4px
   height:6px;
